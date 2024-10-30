@@ -30,3 +30,9 @@ Owner of a construction services business.
   const identity = <T>(arg: T): T => {
     return arg;
 }
+```
+
+
+## Contacts:
+- email: kf46545**@gmail.com
+- discord: @fkonst;
