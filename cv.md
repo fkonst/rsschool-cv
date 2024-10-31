@@ -4,7 +4,7 @@
 ## About me: 
 A beginner web developer, actively developing programming skills and mastering various technologies and approaches in web application development.
 
-## Edication: 
+## Education: 
 Baltic State Technical University. Design Engineer.
 
 ## Work Experience:

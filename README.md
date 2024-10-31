@@ -1,1 +1,1 @@
-https://fkonst.github.io/rsschool-cv/cv
+https://fkonst.github.io/rsschool-cv/
